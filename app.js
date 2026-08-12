@@ -1,0 +1,1 @@
+alert('Thank you for wachting this video! External JS alert')
